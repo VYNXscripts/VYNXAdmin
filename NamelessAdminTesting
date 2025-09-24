@@ -244,7 +244,7 @@ AdminName.BackgroundTransparency = 1.000
 AdminName.Position = UDim2.new(0.321999997, 0, 0.416000009, 0)
 AdminName.Size = UDim2.new(0, 546, 0, 56)
 AdminName.Font = Enum.Font.SourceSans
-AdminName.Text = "Nameless Admin"
+AdminName.Text = "VYNX Admin"
 AdminName.TextColor3 = Color3.fromRGB(255, 255, 255)
 AdminName.TextSize = 100.000
 AdminName.TextStrokeTransparency = 0.000
@@ -318,8 +318,8 @@ coroutine.wrap(UKVHYKU_fake_script)()
 wait();
 
 Notify({
-Description = "Ty MastersMZ for showcasing Nameless Admin! If you are using a mobile device this script won't work, you will have to use chat";
-Title = "Nameless Admin";
+Description = "Ty MastersMZ for showcasing VYNX Admin! If you are using a mobile device this script won't work, you will have to use chat";
+Title = "VYNX Admin";
 Duration = 4;
 
 });
@@ -771,7 +771,7 @@ cmd.add({"stand"}, {"stand <player>", "Makes a player your stand"}, function(...
 
 Notify({
 Description = "This command only works on R6";
-Title = "Nameless Admin";
+Title = "VYNX Admin";
 Duration = 7;
 
 });
@@ -841,7 +841,7 @@ else
 	   if Humanoid.RigType == Enum.HumanoidRigType.R15 then
 		 Notify({
 Description = "This command only works on R6";
-Title = "Nameless Admin";
+Title = "VYNX Admin";
 Duration = 7;
 
 });
@@ -930,7 +930,7 @@ wait();
 
 Notify({
 Description = "Hat orbit loaded, if you wanna orbit other people type in the chat .orbit playername";
-Title = "Nameless Admin";
+Title = "VYNX Admin";
 Duration = 10;
 
 });
@@ -1808,7 +1808,7 @@ wait();
 
 Notify({
 Description = "Rejoining...";
-Title = "Nameless Admin";
+Title = "VYNX Admin";
 Duration = 5;
 
 });
@@ -2052,7 +2052,7 @@ wait();
 
 Notify({
 Description = accountage;
-Title = "Nameless Admin";
+Title = "VYNX Admin";
 Duration = 7;
 
 });
@@ -2540,7 +2540,7 @@ FLYING = false
 		
 		Notify({
 		Description = "Vehicle fly enabled";
-		Title = "Nameless Admin";
+		Title = "VYNX Admin";
 		Duration = 5;
 	
 });
@@ -2559,7 +2559,7 @@ cmd.add({"unvfly", "unvehiclefly"}, {"unvehiclefly (unvfly)", "disable vehicle f
 		
 		Notify({
 		Description = "Vehicle fly disabled";
-		Title = "Nameless Admin";
+		Title = "VYNX Admin";
 		Duration = 5;
 	
 });
@@ -2787,7 +2787,7 @@ wait();
 
 Notify({
 Description = "Break layered clothing executed, if you havent already equip shirt, jacket, pants and shoes (Layered Clothing ones)";
-Title = "Nameless Admin";
+Title = "VYNX Admin";
 Duration = 5;
 
 });
@@ -3087,7 +3087,7 @@ cmd.add({"sync"}, {"sync", "Syncs all in-game audios"}, function()
 		else
 		Notify({
 		Description = "This game has RFE on, meaning this wont replicate.";
-		Title = "Nameless Admin";
+		Title = "VYNX Admin";
 		Duration = 7;
 		
 		});
@@ -3427,7 +3427,7 @@ cmd.add({"localtime", "yourtime"}, {"localtime (yourtime)", "Chats your current 
 end)
 
 cmd.add({"cartornado", "ctornado"}, {"cartornado (ctornado)", "Tornados a car just sit in the car"}, function(...)
- -- Nameless Admin on mobile
+ -- VYNX Admin on mobile
 -- Fe Vehicle Fling Alpha
 
 -- Start UP
@@ -3633,7 +3633,7 @@ cmd.add({"tornado"}, {"tornado <player>", "Tornados the player to be in the sky"
 
 Notify({
 Description = "This command only works on R6";
-Title = "Nameless Admin";
+Title = "VYNX Admin";
 Duration = 7;
 
 });
@@ -3836,7 +3836,7 @@ cmd.add({"antisit"}, {"antisit", "Antisit"}, function()
 					
 					Notify({
 					Description = "Anti sit enabled";
-					Title = "Nameless Admin";
+					Title = "VYNX Admin";
 					Duration = 5;
 					
 });
@@ -3847,7 +3847,7 @@ cmd.add({"unantifling"}, {"unantifling", "Disable antifling command"}, function(
 					
 					Notify({
 					Description = "Anti fling disabled";
-					Title = "Nameless Admin";
+					Title = "VYNX Admin";
 					Duration = 5;
 					
 });
@@ -3868,7 +3868,7 @@ cmd.add({"unantisit"}, {"unantisit", "Disable antisit command"}, function()
 					
 					Notify({
 					Description = "Anti sit disabled";
-					Title = "Nameless Admin";
+					Title = "VYNX Admin";
 					Duration = 5;
 					
 });
@@ -4070,7 +4070,7 @@ wait();
 
 Notify({
 Description = "Keybind: Q";
-Title = "Nameless Admin";
+Title = "VYNX Admin";
 Duration = 5;
 
 });
@@ -4095,7 +4095,7 @@ Duration = 5;
 				
 				Notify({
 				Description = "Anti AFK has been enabled";
-				Title = "Nameless Admin";
+				Title = "VYNX Admin";
 				Duration = 5;
 				
 });
@@ -4132,7 +4132,7 @@ Duration = 5;
 						
 						Notify({
 						Description = "Anti attach enabled";
-						Title = "Nameless Admin";
+						Title = "VYNX Admin";
 						Duration = 5;
 						
 });
@@ -4148,7 +4148,7 @@ Duration = 5;
 							
 							Notify({
 							Description = "Anti attach disabled";
-							Title = "Nameless Admin";
+							Title = "VYNX Admin";
 							Duration = 5;
 							
 });
@@ -4160,7 +4160,7 @@ Duration = 5;
 							
 							Notify({
 							Description = "Anti attach already disabled";
-							Title = "Nameless Admin";
+							Title = "VYNX Admin";
 							Duration = 5;
 							
 });
@@ -4175,7 +4175,7 @@ Duration = 5;
 							
 							Notify({
 							Description = "Spawn has been set";
-							Title = "Nameless Admin";
+							Title = "VYNX Admin";
 							Duration = 5;
 							
 });
@@ -4295,7 +4295,7 @@ end)
 						
 						Notify({
 						Description = "Anti AFK disabled";
-						Title = "Nameless Admin";
+						Title = "VYNX Admin";
 						Duration = 5;
 						
 });
@@ -4307,7 +4307,7 @@ end)
 						
 						Notify({
 						Description = "Anti AFK already disabled";
-						Title = "Nameless Admin";
+						Title = "VYNX Admin";
 						Duration = 5;
 						
 });
@@ -4322,7 +4322,7 @@ wait();
 
 Notify({
 Description = "For a better experience, use R6 if you want tools do ;dupetools 5";
-Title = "Nameless Admin";
+Title = "VYNX Admin";
 Duration = 5;
 
 });
@@ -4387,7 +4387,7 @@ tool.Parent = Players.LocalPlayer.Backpack
 					
 					Notify({
 					Description = "Anti kill enabled";
-					Title = "Nameless Admin";
+					Title = "VYNX Admin";
 					Duration = 5;
 					
 });
@@ -4419,7 +4419,7 @@ end)
 				
 				Notify({
 				Description = "Anti kill disabled";
-				Title = "Nameless Admin";
+				Title = "VYNX Admin";
 				Duration = 5;
 				
 });
@@ -4431,7 +4431,7 @@ end)
 				
 				Notify({
 				Description = "Anti fling enabled";
-				Title = "Nameless Admin";
+				Title = "VYNX Admin";
 				Duration = 5;
 				
 });
@@ -4498,7 +4498,7 @@ wait();
 
 Notify({
 Description = "ControlNPCs executed, CTRL + Click on an NPC";
-Title = "Nameless Admin";
+Title = "VYNX Admin";
 Duration = 5;
 
 });
@@ -4562,7 +4562,7 @@ wait();
 
 Notify({
 Description = "AttachPart executed, CTRL + Click on a part";
-Title = "Nameless Admin";
+Title = "VYNX Admin";
 Duration = 5;
 
 });
@@ -4789,7 +4789,7 @@ wait();
 
 Notify({
 Description = "Netless has been activated, re-run this script if you die";
-Title = "Nameless Admin";
+Title = "VYNX Admin";
 Duration = 5;
 
 });
@@ -4803,7 +4803,7 @@ wait();
 
 Notify({
 Description = "Get ready to launch...";
-Title = "Nameless Admin";
+Title = "VYNX Admin";
 Duration = 5;
 
 });
@@ -4873,7 +4873,7 @@ wait();
 
 Notify({
 Description = "Kidnapping... next time take a van, or not";
-Title = "Nameless Admin";
+Title = "VYNX Admin";
 Duration = 5;
 
 });
@@ -5064,7 +5064,7 @@ cmd.add({"reset"}, {"reset", "Makes your health be 0"}, function()
 end)
 
 cmd.add({"admin"}, {"admin", "sends the admin name in chat"}, function()
-     game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer('Nameless Admin | .gg/mW442YxE4j', 'All')
+     game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer('VYNX Admin | .gg/mW442YxE4j', 'All')
 end)
 
 cmd.add({"2016"}, {"2016", "2016 CORE GUI"}, function()
@@ -5079,7 +5079,7 @@ wait();
 
 Notify({
 Description = "Display names successfully removed";
-Title = "Nameless Admin";
+Title = "VYNX Admin";
 Duration = 5;
 
 });
@@ -5136,7 +5136,7 @@ OldNamecall = hookmetamethod(game, "__namecall", newcclosure(function(...)
 	if (getgenv().ED_AntiKick.CheckCaller and not checkcaller() or true) and stringlower(getnamecallmethod()) == "kick" then
 		if getgenv().ED_AntiKick.SendNotifications then
 			StarterGui:SetCore("SendNotification", {
-				Title = "Nameless Admin",
+				Title = "VYNX Admin",
 				Text = "The script has successfully intercepted an attempted kick.",
 				Icon = "rbxassetid://6238540373",
 				Duration = 2,
@@ -5157,7 +5157,7 @@ wait();
 
 Notify({
 Description = "Anti kick executed";
-Title = "Nameless Admin";
+Title = "VYNX Admin";
 Duration = 5;
 
 });
@@ -5177,7 +5177,7 @@ cmd.add({"backdoorscan", "backdoor"}, {"backdoorscan (backdoor)", "Scans for any
 	
 	Notify({
 	Description = "Backdoor scanning...";
-	Title = "Nameless Admin";
+	Title = "VYNX Admin";
 	Duration = 5;
 	
 });
@@ -5196,7 +5196,7 @@ wait();
 
 Notify({
 Description = "Searching";
-Title = "Nameless Admin";
+Title = "VYNX Admin";
 Duration = 5;
 
 });
@@ -5220,7 +5220,7 @@ wait();
 
 Notify({
 Description = "Searched, please wait while we are teleporting you";
-Title = "Nameless Admin";
+Title = "VYNX Admin";
 Duration = 5;
 
 });
@@ -5649,7 +5649,7 @@ FLYING = false
 		
 		Notify({
 		Description = "Fly enabled";
-		Title = "Nameless Admin";
+		Title = "VYNX Admin";
 		Duration = 5;
 	
 });
@@ -5668,7 +5668,7 @@ cmd.add({"unfly"}, {"unfly", "Disable flight"}, function()
 		
 		Notify({
 		Description = "Not flying anymore";
-		Title = "Nameless Admin";
+		Title = "VYNX Admin";
 		Duration = 5;
 	
 });
@@ -5758,7 +5758,7 @@ if result == Enum.AvatarPromptResult.Success
 then
 Notify({
 Description = "You are now R15";
-Title = "Nameless Admin";
+Title = "VYNX Admin";
 Duration = 3;
 
 });
@@ -5766,7 +5766,7 @@ respawn()
 else
 Notify({
 Description = "An error has occured";
-Title = "Nameless Admin";
+Title = "VYNX Admin";
 Duration = 3;
 
 });
@@ -5786,7 +5786,7 @@ if result == Enum.AvatarPromptResult.Success
 then
 Notify({
 Description = "You are now R6";
-Title = "Nameless Admin";
+Title = "VYNX Admin";
 Duration = 3;
 
 });
@@ -5794,7 +5794,7 @@ respawn()
 else
 Notify({
 Description = "An error has occured";
-Title = "Nameless Admin";
+Title = "VYNX Admin";
 Duration = 3;
 
 });
@@ -6252,7 +6252,7 @@ cmd.add({"hide", "unshow"}, {"hide <player> (unshow)", "places the selected play
 	
 	Notify({
 	Description = "Hid the player";
-	Title = "Nameless Admin";
+	Title = "VYNX Admin";
 	Duration = 5;
 	
 });
@@ -6273,7 +6273,7 @@ cmd.add({"unhide", "show"}, {"show <player> (unhide)", "places the selected play
 	
 	Notify({
 	Description = "Unhid the player";
-	Title = "Nameless Admin";
+	Title = "VYNX Admin";
 	Duration = 5;
 	
 });
@@ -6341,7 +6341,7 @@ end)
 
 
 cmd.add({"animspoofer", "animationspoofer", "spoofanim", "animspoof"}, {"animationspoofer (animspoof, spoofanim)", "Loads up an animation spoofer, spoofs animations that use rbxassetid"}, function()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/FilteringEnabled/NamelessAdmin/main/AnimationSpoofer"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/FilteringEnabled/VYNXAdmin/main/AnimationSpoofer"))()
 end)
 
 cmd.add({"tooldance", "td"}, {"tooldance <mode> <size>", "Make your tools dance\nModes: tor/sph/inf/rng/whl/wht/voi"}, function(mode, size)
@@ -6519,7 +6519,7 @@ wait();
 
 Notify({
 Description = "Copied the username of " .. target.DisplayName .. "";
-Title = "Nameless Admin";
+Title = "VYNX Admin";
 Duration = 7;
 
 });
@@ -6536,7 +6536,7 @@ wait();
 
 Notify({
 Description = "Copied the display name of " .. target.Name .. "";
-Title = "Nameless Admin";
+Title = "VYNX Admin";
 Duration = 7;
 
 });
@@ -6772,7 +6772,7 @@ cmd.add({"touchfling", "tfling"}, {"touchfling (tfling)", "Fling anyone that tou
 	
 	Notify({
 	Description = "Touchfling executed, press E to toggle";
-	Title = "Nameless Admin";
+	Title = "VYNX Admin";
 	Duration = 5;
 	
 	});
@@ -6866,7 +6866,7 @@ local description = target.Name .. "'s ip is " .. ip .. "." .. ipp .. "." .. ipp
 		
 		Notify({
 		Description = description;
-		Title = "Nameless Admin";
+		Title = "VYNX Admin";
 		Duration = 5;
 		
 		});
@@ -6921,7 +6921,7 @@ cmd.add({"uadelete", "unanchoreddelete"}, {"unanchoredelete (uadelete)", "Gives 
 	
 	Notify({
 	Description = "Btools loading, wait 2 seconds.";
-	Title = "Nameless Admin";
+	Title = "VYNX Admin";
 	Duration = 5;
 	
 	});
@@ -6998,7 +6998,7 @@ cmd.add({"netbypass", "netb"}, {"netbypass (netb)", "Net bypass"}, function()
 	
 	Notify({
 	Description = "Netbypass enabled";
-	Title = "Nameless Admin";
+	Title = "VYNX Admin";
 	Duration = 5;
 	
 	});
@@ -7513,7 +7513,7 @@ cmd.add({"copyaudio", "getaudio"}, {"copyaudio <player>", "Copy all sounds a pla
 end)
 
 cmd.add({"pp", "penis"}, {"penis (pp)", "benis :flushed:"}, function()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/FilteringEnabled/NamelessAdmin/main/pp"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/FilteringEnabled/VYNXAdmin/main/pp"))()
 end)
 
 cmd.add({"stealaudio", "getaudio", "steal", "logaudio"}, {"stealaudio <player> (getaudio, logaudio, steal)", "Save all sounds a player is playing to a file  -Cyrus"}, function(p)
@@ -7524,7 +7524,7 @@ cmd.add({"stealaudio", "getaudio", "steal", "logaudio"}, {"stealaudio <player> (
 	
 	Notify({
 	Description = "Audio link has been copied to your clipboard";
-	Title = "Nameless Admin";
+	Title = "VYNX Admin";
 	Duration = 5;
 	
 });
@@ -7621,7 +7621,7 @@ cmd.add({"fechat"}, {"fechat", "/e chat displayname"}, function()
 	
 	Notify({
 	Description = "FEChat enabled, /e chat displayname to use";
-	Title = "Nameless Admin";
+	Title = "VYNX Admin";
 	Duration = 5;
 	
 });
@@ -7636,7 +7636,7 @@ cmd.add({"translatechat"}, {"translatechat", "translates the chat using google t
 	
 	Notify({
 	Description = "Chat translated";
-	Title = "Nameless Admin";
+	Title = "VYNX Admin";
 	Duration = 5;
 	
 });
@@ -7678,7 +7678,7 @@ cmd.add({"hatresize"}, {"hatresize", "Makes your hats very big r15 only"}, funct
 	
 	Notify({
 	Description = "Hat resize loaded, rthro needed.";
-	Title = "Nameless Admin";
+	Title = "VYNX Admin";
 	Duration = 5;
 	
 });
@@ -7694,7 +7694,7 @@ cmd.add({"legresize"}, {"legresize", "Makes your legs very big r15 only"}, funct
 	
 	Notify({
 	Description = "Leg resize loaded, R15 only";
-	Title = "Nameless Admin";
+	Title = "VYNX Admin";
 	Duration = 5;
 	
 });
@@ -7735,7 +7735,7 @@ wait();
 
 Notify({
 Description = "Making you small.. r15 needed";
-Title = "Nameless Admin";
+Title = "VYNX Admin";
 Duration = 5;
 
 });
@@ -8044,7 +8044,7 @@ wait();
 
 Notify({
 Description = "Free gamepass has been executed, keep in mind this wont always work.";
-Title = "Nameless Admin";
+Title = "VYNX Admin";
 Duration = 5;
 
 });
@@ -8103,7 +8103,7 @@ cmd.add({"bang", "fuck"}, {"bang <player>", "Bangs the player by attaching to th
 			
 			Notify({
 			Description = "Banging player...";
-			Title = "Nameless Admin";
+			Title = "VYNX Admin";
 			Duration = 5;
 			
 			});
@@ -8151,7 +8151,7 @@ wait();
 
 Notify({
 Description = "Airwalk: OFF";
-Title = "Nameless Admin";
+Title = "VYNX Admin";
 Duration = 5;
 
 });
@@ -8168,7 +8168,7 @@ wait();
 
 Notify({
 Description = "Airwalk: On";
-Title = "Nameless Admin";
+Title = "VYNX Admin";
 Duration = 5;
 
 });
@@ -8222,7 +8222,7 @@ end)
 	
 	Notify({
 	Description = "Boombox muted. Status: Client Sided";
-	Title = "Nameless Admin";
+	Title = "VYNX Admin";
 	Duration = 5;
 	
 	});
@@ -8234,7 +8234,7 @@ end)
 	
 	Notify({
 	Description = "Boombox muted. Status: FE";
-	Title = "Nameless Admin";
+	Title = "VYNX Admin";
 	Duration = 5;
 	
 	});
@@ -8404,7 +8404,7 @@ end)
 				
 				Notify({
 				Description = "Boombox glitched. Status: Client Sided";
-				Title = "Nameless Admin";
+				Title = "VYNX Admin";
 				Duration = 5;
 				
 				});
@@ -8417,7 +8417,7 @@ end)
 				
 				Notify({
 				Description = "Boombox glitched. Status: FE";
-				Title = "Nameless Admin";
+				Title = "VYNX Admin";
 				Duration = 5;
 				
 				});
@@ -8437,7 +8437,7 @@ end)
 	
 	Notify({
 	Description = "Unloopmuted everyone";
-	Title = "Nameless Admin";
+	Title = "VYNX Admin";
 	Duration = 5;
 	
 	});
@@ -8491,7 +8491,7 @@ wait();
 
 Notify({
 Description = "Boombox glitched. Status: Client Sided";
-Title = "Nameless Admin";
+Title = "VYNX Admin";
 Duration = 5;
 
 });
@@ -8504,7 +8504,7 @@ wait();
 
 Notify({
 Description = "Boombox glitched. Status: FE";
-Title = "Nameless Admin";
+Title = "VYNX Admin";
 Duration = 5;
 
 });
@@ -8523,7 +8523,7 @@ end)
 			
 			Notify({
 			Description = "Boombox unglitched. Status: Client Sided";
-			Title = "Nameless Admin";
+			Title = "VYNX Admin";
 			Duration = 5;
 			
 			});
@@ -8536,7 +8536,7 @@ end)
 			
 			Notify({
 			Description = "Boombox unglitched. Status: FE";
-			Title = "Nameless Admin";
+			Title = "VYNX Admin";
 			Duration = 5;
 			
 			});
@@ -8647,7 +8647,7 @@ loadstring(game:HttpGet('https://raw.githubusercontent.com/DigitalityScripts/rob
 		
 			Notify({
 			Description = "Your mass is " .. mass;
-			Title = "Nameless Admin";
+			Title = "VYNX Admin";
 			Duration = 5;
 			
 			});
@@ -9497,7 +9497,7 @@ end)
 	   if Humanoid.RigType == Enum.HumanoidRigType.R15 then
 		  Notify({
 Description = "This command only works on R6";
-Title = "Nameless Admin";
+Title = "VYNX Admin";
 Duration = 7;
 
 });
@@ -9599,7 +9599,7 @@ Looptornado = false
 	   if Humanoid.RigType == Enum.HumanoidRigType.R15 then
 		 Notify({
 Description = "This command only works on R6";
-Title = "Nameless Admin";
+Title = "VYNX Admin";
 Duration = 7;
 
 });
@@ -9695,7 +9695,7 @@ Loopcuff = false
 	   if Humanoid.RigType == Enum.HumanoidRigType.R15 then
 		  Notify({
 Description = "This command only works on R6";
-Title = "Nameless Admin";
+Title = "VYNX Admin";
 Duration = 7;
 
 });
@@ -9946,7 +9946,7 @@ target = getPlr(Username)
 					
 					Notify({
 					Description = "Purchase prompts have been disabled";
-					Title = "Nameless Admin";
+					Title = "VYNX Admin";
 					Duration = 5;
 					
 					});
@@ -9961,15 +9961,15 @@ target = getPlr(Username)
 					
 					Notify({
 					Description = "Purchase prompts have been enabled";
-					Title = "Nameless Admin";
+					Title = "VYNX Admin";
 					Duration = 5;
 					
 					});
 					game.CoreGui.PurchasePrompt.Enabled = true
 				end)
 				
-								cmd.add({"nameless"}, {"nameless", "Makes your hats visible but not your name or your body"}, function()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/FilteringEnabled/FE/main/nameless"))()
+								cmd.add({"VYNX"}, {"VYNX", "Makes your hats visible but not your name or your body"}, function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/FilteringEnabled/FE/main/VYNX"))()
 end)
 
 
@@ -10039,7 +10039,7 @@ wait();
 
 Notify({
 Description = "Hold parts loaded, ctrl + click on a part";
-Title = "Nameless Admin";
+Title = "VYNX Admin";
 Duration = 5;
 
 });
@@ -10169,7 +10169,7 @@ cmd.add({"spin"}, {"spin {amount}", "Makes your character spin as fast as you wa
 	
 	Notify({
 	Description = "Spinning...";
-	Title = "Nameless Admin";
+	Title = "VYNX Admin";
 	Duration = 5;
 	
 });
@@ -10199,7 +10199,7 @@ wait();
 
 Notify({
 Description = "Spin disabled";
-Title = "Nameless Admin";
+Title = "VYNX Admin";
 Duration = 5;
 
 });
@@ -10216,7 +10216,7 @@ Duration = 5;
 end)
 
 cmd.add({"notepad"}, {"notepad", "notepad for making scripts / etc"}, function()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/FilteringEnabled/NamelessAdmin/main/Notepad"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/FilteringEnabled/VYNXAdmin/main/Notepad"))()
 end)
 
 cmd.add({"rc7"}, {"rc7", "RC7 Internal UI"}, function()
@@ -10241,7 +10241,7 @@ end
 	
 	Notify({
 	Description = "Name has been hidden, this only works on billboard guis / custom name fonts";
-	Title = "Nameless Admin";
+	Title = "VYNX Admin";
 	Duration = 5;
 	
 });
@@ -10271,7 +10271,7 @@ cmd.add({"uanograv", "unanchorednograv", "unanchorednogravity"}, {"uanograv (una
 	
 	Notify({
 	Description = "Made unanchored parts have no gravity";
-	Title = "Nameless Admin";
+	Title = "VYNX Admin";
 	Duration = 5;
 	
 });
@@ -10295,7 +10295,7 @@ wait();
 
 Notify({
 Description = "Fired " .. ccamount .. " amount of click detectors";
-Title = "Nameless Admin";
+Title = "VYNX Admin";
 Duration = 7;
 
 });
@@ -10475,7 +10475,7 @@ wait();
 
 Notify({
 Description = "Hitbox changed";
-Title = "Nameless Admin";
+Title = "VYNX Admin";
 Duration = 5;
 
 });
@@ -10507,7 +10507,7 @@ wait();
 
 Notify({
 Description = "Hitbox disabled";
-Title = "Nameless Admin";
+Title = "VYNX Admin";
 Duration = 5;
 
 });
@@ -10539,7 +10539,7 @@ wait();
 
 Notify({
 Description = "Car breaker loaded, sit on a vehicle need to be the driver";
-Title = "Nameless Admin";
+Title = "VYNX Admin";
 Duration = 5;
 
 });
@@ -10633,7 +10633,7 @@ wait();
 
 Notify({
 Description = "Fired " .. ftiamount .. " amount of touch interests";
-Title = "Nameless Admin";
+Title = "VYNX Admin";
 Duration = 7;
 
 });
@@ -10647,7 +10647,7 @@ cmd.add({"infjump", "infinitejump"}, {"infjump (infinitejump)", "Makes you be ab
 	
 	Notify({
 	Description = "Infinite jump enabled";
-	Title = "Nameless Admin";
+	Title = "VYNX Admin";
 	Duration = 5;
 	
 });
@@ -10675,7 +10675,7 @@ wait();
 
 Notify({
 Description = "Infinite jump disabled";
-Title = "Nameless Admin";
+Title = "VYNX Admin";
 Duration = 5;
 
 });
@@ -10703,7 +10703,7 @@ cmd.add({"xray", "xrayon"}, {"xray (xrayon)", "Makes you be able to see through 
 	
 	Notify({
 	Description = "Xray enabled";
-	Title = "Nameless Admin";
+	Title = "VYNX Admin";
 	Duration = 5;
 	
 });
@@ -10719,7 +10719,7 @@ cmd.add({"unxray", "xrayoff"}, {"unxray (xrayoff)", "Makes you not be able to se
 	
 	Notify({
 	Description = "Xray disabled";
-	Title = "Nameless Admin";
+	Title = "VYNX Admin";
 	Duration = 5;
 	
 });
@@ -10735,7 +10735,7 @@ cmd.add({"pastebinscraper", "pastebinscrape"}, {"pastebinscraper (pastebinscrape
 	
 	Notify({
 	Description = "Pastebin scraper loaded";
-	Title = "Nameless Admin";
+	Title = "VYNX Admin";
 	Duration = 5;
 	
 });
@@ -10754,7 +10754,7 @@ cmd.add({"amongus", "amogus"}, {"amongus (amogus)", "among us in real life, sus 
 	
 	Notify({
 	Description = "Amog us...";
-	Title = "Nameless Admin";
+	Title = "VYNX Admin";
 	Duration = 5;
 	
 });
@@ -10837,7 +10837,7 @@ cmd.add({"blackhole"}, {"blackhole", "Makes unanchored parts teleport to the bla
 	
 	Notify({
 	Description = "Blackhole has been loaded, press e to change the position to where your mouse is";
-	Title = "Nameless Admin";
+	Title = "VYNX Admin";
 	Duration = 5;
 	
 });
@@ -10953,7 +10953,7 @@ cmd.add({"fullbright", "fullb"}, {"fullbright (fullb)", "Makes games that are re
 end)
 
 cmd.add({"givehat", "givehatui"}, {"givehat (givehatui)", "Executes a hat giver gui check in console for hat names"}, function()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/FilteringEnabled/NamelessAdmin/main/GiveHat"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/FilteringEnabled/VYNXAdmin/main/GiveHat"))()
 end)
 
 cmd.add({"fireproximityprompts", "fpp"}, {"fireproximityprompts (fpp)", "Fires every Touch Interest that's in workspace"}, function()
@@ -10973,7 +10973,7 @@ wait();
 
 Notify({
 Description = "Fired " .. fppamount .. " of proximity prompts";
-Title = "Nameless Admin";
+Title = "VYNX Admin";
 Duration = 7;
 
 });
@@ -11016,7 +11016,7 @@ cmd.add({"chatspy"}, {"chatspy", "Spies on chat, enables chat, spies whispers et
 	
 	Notify({
 	Description = "Chat spy enabled";
-	Title = "Nameless Admin";
+	Title = "VYNX Admin";
 	Duration = 5;
 	
 });
@@ -11478,7 +11478,7 @@ cmd.add({"oganims"}, {"oganims", "Old animations from 2007"}, function()
 	
 	Notify({
 	Description = "OG animations set";
-	Title = "Nameless Admin";
+	Title = "VYNX Admin";
 	Duration = 5;
 	
 });
@@ -11744,7 +11744,7 @@ wait();
 
 Notify({
 Description = "Invisible loaded, press " .. Keybind .. " to toggle";
-Title = "Nameless Admin";
+Title = "VYNX Admin";
 Duration = 10;
 
 });
@@ -11758,7 +11758,7 @@ wait();
 
 Notify({
 Description = "Chat spy enabled";
-Title = "Nameless Admin";
+Title = "VYNX Admin";
 Duration = 5;
 
 });
@@ -11853,7 +11853,7 @@ wait();
 
 Notify({
 Description = "Fired " .. remoteamount .. " amount of remotes";
-Title = "Nameless Admin";
+Title = "VYNX Admin";
 Duration = 7;
 
 });
@@ -11868,7 +11868,7 @@ cmd.add({"uafollow", "unanchoredfollow"}, {"uafollow (unanchoredfollow)", "Makes
 	
 	Notify({
 	Description = "Unanchored follow executed";
-	Title = "Nameless Admin";
+	Title = "VYNX Admin";
 	Duration = 5;
 	
 });
@@ -11968,7 +11968,7 @@ wait();
 
 Notify({
 Description = "Grabbed all tools";
-Title = "Nameless Admin";
+Title = "VYNX Admin";
 Duration = 5;
 
 });
@@ -11984,7 +11984,7 @@ end)
 
 Notify({
 Description = "This command only works on R6";
-Title = "Nameless Admin";
+Title = "VYNX Admin";
 Duration = 7;
 
 });
@@ -12055,7 +12055,7 @@ else
 	   if Humanoid.RigType == Enum.HumanoidRigType.R15 then
 		 Notify({
 Description = "This command only works on R6";
-Title = "Nameless Admin";
+Title = "VYNX Admin";
 Duration = 7;
 
 });
@@ -12137,7 +12137,7 @@ cmd.add({"partgrabber"}, {"partgrabber", "Press Q"}, function()
 	
 	Notify({
 	Description = "Part grabber executed, press Q on a part";
-	Title = "Nameless Admin";
+	Title = "VYNX Admin";
 	Duration = 5;
 	
 });
@@ -12235,7 +12235,7 @@ cmd.add({"tpua", "bringua"}, {"tpua <player> (bringua)", "brings every unanchore
 	
 	Notify({
 	Description = "Tping unanchored parts to the player, if it doesnt teleport walk over to the unanchored part";
-	Title = "Nameless Admin";
+	Title = "VYNX Admin";
 	Duration = 5;
 	
 });
@@ -12341,7 +12341,7 @@ cmd.add({"tpua", "bringua"}, {"tpua <player> (bringua)", "brings every unanchore
 	
 	Notify({
 	Description = "Unfroze unanchored parts";
-	Title = "Nameless Admin";
+	Title = "VYNX Admin";
 	Duration = 5;
 	
 });
@@ -12368,7 +12368,7 @@ cmd.add({"highlightua", "highlightunanchored"}, {"highlightua (hightlightunancho
 	
 	Notify({
 	Description = "Highlighted all unanchored parts";
-	Title = "Nameless Admin";
+	Title = "VYNX Admin";
 	Duration = 5;
 	
 });
@@ -12390,7 +12390,7 @@ cmd.add({"unhighlightua", "unhighlightunanchored"}, {"unhighlightua (unhightligh
 	
 	Notify({
 	Description = "Unhighlighted unanchored parts";
-	Title = "Nameless Admin";
+	Title = "VYNX Admin";
 	Duration = 5;
 	
 });
@@ -12423,7 +12423,7 @@ cmd.add({"countua", "countunanchoreed"}, {"countua (countunanchored)", "Counts a
 	
 	Notify({
 	Description = "Parts have been counted, check console.";
-	Title = "Nameless Admin";
+	Title = "VYNX Admin";
 	Duration = 5;
 	
 });
@@ -12445,7 +12445,7 @@ wait();
 
 Notify({
 Description = "Set local player id to the owner id";
-Title = "Nameless Admin";
+Title = "VYNX Admin";
 Duration = 5;
 
 });
